@@ -1,0 +1,4 @@
+interface:
+  display_name: "Competitor Language X-Ray"
+  short_description: "Ecommerce competitor, Shopify stack, ad, and buyer-language research"
+  default_prompt: "Use $competitor-language-x-ray to research these ecommerce competitors, stores, products, or categories and mine the buyer language behind the market."
