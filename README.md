@@ -6,12 +6,12 @@
 
 Codex / generic skills:
 ```bash
-git clone <repo-url> ~/.codex/skills/competitor-language-x-ray
+git clone https://github.com/mrb0ats/competitor-language-x-ray ~/.codex/skills/competitor-language-x-ray
 ```
 
 Claude Code / manual skills:
 ```bash
-git clone <repo-url> ~/.claude/skills/competitor-language-x-ray
+git clone https://github.com/mrb0ats/competitor-language-x-ray ~/.claude/skills/competitor-language-x-ray
 ```
 
 Claude Desktop / claude.ai-style skill import: download `competitor-language-x-ray.skill` from the repo or latest release and import it into your Skills / Capabilities settings.
